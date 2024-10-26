@@ -10,28 +10,29 @@
 
 <table>
   <tr>
-    <td align="center">공모전 검색 결과 페이지</td>
-    <td align="center">메인페이지1</td>
+    <td align="center">메인페이지</td>
+    <td align="center">메인페이지(입력)</td>
   </tr>
   <tr>
-    <td><img src="이미지/공모전 검색 결과 페이지.png" width="300px" /></td>
-    <td><img src="이미지/메인페이지1.png" width="300px" /></td>
-  </tr>
-  <tr>
-    <td align="center">메인페이지2</td>
-    <td align="center">멘토 등록 페이지</td>
-  </tr>
-  <tr>
+    <td><img src="이미지/메인페이지.png" width="300px" /></td>
     <td><img src="이미지/메인페이지2.png" width="300px" /></td>
-    <td><img src="이미지/멘토 등록 페이지.png" width="300px" /></td>
   </tr>
   <tr>
-    <td align="center">멘토 삭제 페이지</td>
+    <td align="center">공모전 검색 결과 페이지</td>
     <td align="center">멘토에게 피드백 요청 페이지</td>
   </tr>
   <tr>
-    <td><img src="이미지/멘토 삭제 페이지.png" width="300px" /></td>
+    <td><img src="이미지/공모전 검색 결과 페이지.png" width="300px" /></td>
     <td><img src="이미지/멘토에게 피드백 요청 페이지.png" width="300px" /></td>
+  </tr>
+  <tr>
+    <td align="center">멘토 등록 페이지</td>
+    <td align="center">멘토 삭제 페이지</td>
+  </tr>
+  <tr>
+   <td><img src="이미지/멘토 등록 페이지.png" width="300px" /></td>
+    <td><img src="이미지/멘토 삭제 페이지.png" width="300px" /></td>
+   
   </tr>
   <tr>
     <td align="center">팀원 모집 게시글 작성 페이지</td>
