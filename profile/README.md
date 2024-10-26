@@ -20,7 +20,7 @@
       <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="48" style="margin: 5px;"/>
       <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" style="margin: 5px;"/>
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" style="margin: 5px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/MariaDB_Logo.png" alt="MariaDB" width="48" style="margin: 5px;"/>
+      <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="MariaDB" width="48" style="margin: 5px;"/>
     </td>
     <td align="center" style="padding: 20px; background-color: #ffffff;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" style="margin: 5px;"/>
