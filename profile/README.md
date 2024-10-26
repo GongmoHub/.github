@@ -9,9 +9,28 @@
 
 ## 💻 사용 기술
 
-|                                                                                                                                                                  BACK END                                                                                                                                                                   |                                                                                                                                                                                                    FRONT END                                                                                                                                                                                                     |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48"/> ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Sass](https://img.icons8.com/color/48/000000/sass.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) |
+<table>
+  <tr>
+    <th style="width: 50%; text-align: center;">BACK END</th>
+    <th style="width: 50%; text-align: center;">FRONT END</th>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #f7f7f7;">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48"/>
+      <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="48"/>
+    </td>
+    <td align="center" style="background-color: #f7f7f7;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="48"/>
+    </td>
+  </tr>
+</table>
 
 ## 📃 페이지 소개
 
