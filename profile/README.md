@@ -9,7 +9,7 @@
 
 ## 💻 사용 기술
 
-<table>
+<table width="100%">
   <tr>
     <th style="text-align: center; background-color: #E0E0E0; padding: 10px;">BACK END</th>
     <th style="text-align: center; background-color: #E0E0E0; padding: 10px;">FRONT END</th>
@@ -20,7 +20,7 @@
       <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="48" style="margin: 5px;"/>
       <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" style="margin: 5px;"/>
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="48" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/mariadb.png" alt="MariaDB" width="48" style="margin: 5px;"/>
     </td>
     <td align="center" style="padding: 20px; background-color: #ffffff;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" style="margin: 5px;"/>
