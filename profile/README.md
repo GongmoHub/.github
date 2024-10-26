@@ -9,9 +9,26 @@
 
 ## 💻 사용 기술
 
-|                                                                                                                                                                  BACK END                                                                                                                                                                   |                                                                                                                                                           FRONT END                                                                                                                                                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) | ![Next.js](https://img.icons8.com/ios-filled/50/000000/nextjs.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Sass](https://img.icons8.com/color/48/000000/sass.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) |
+<table style="width:100%; table-layout: fixed; background-color: #f8f8f8;">
+  <tr>
+    <td style="text-align: center; background-color: white;">
+      <strong>BACK END</strong><br>
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin: 5px;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="margin: 5px;">
+    </td>
+    <td style="text-align: center; background-color: white;">
+      <strong>FRONT END</strong><br>
+      <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 5px;">
+    </td>
+  </tr>
+</table>
 
 ## 📃 페이지 소개
 
