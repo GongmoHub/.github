@@ -11,8 +11,8 @@
 
 <table>
   <tr>
-    <th style="width: 50%; text-align: center;">BACK END</th>
-    <th style="width: 50%; text-align: center;">FRONT END</th>
+    <th style="width: 500px; text-align: center;">BACK END</th>
+    <th style="width: 500px; text-align: center;">FRONT END</th>
   </tr>
   <tr>
     <td align="center" style="background-color: #f7f7f7;">
