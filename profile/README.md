@@ -16,18 +16,18 @@
   </tr>
   <tr>
     <td align="center" style="padding: 20px; background-color: #ffffff;">
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" style="margin: 5px;"/>
-      <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="MariaDB" width="48" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="80" style="margin: 5px;"/>
+      <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="MariaDB" width="80" style="margin: 5px;"/>
     </td>
     <td align="center" style="padding: 20px; background-color: #ffffff;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" style="margin: 5px;"/>
-      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="48" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="80" style="margin: 5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="80" style="margin: 5px;"/>
     </td>
   </tr>
 </table>
